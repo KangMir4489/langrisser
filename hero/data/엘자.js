@@ -350,10 +350,10 @@
             "Value": "단일"
           },
         ],
-        "IconImageUrl": "../img/Super/엘자.webp",
+        "IconImageUrl": "../img/",
         "Desc": "[패시브] 아군 사망 시 자신에게 걸린 <font color=\"blue\">디버프</font>  <font color=\"red\">2</font>개 제거, 해당 스킬<font color=\"red\">-5</font><br/>[물리 피해] <font color=\"blue\">무장 변환 갑옷</font>을 포기하고 <font color=\"blue\">요도 홍앵</font> 획득.<br/> <br/>단일 개체 <font color=\"red\">1.7</font>배, 전투 진입 전 적 버프 <font color=\"red\">3</font>개 제거. 전장에 있는 적의 수가<br/> 아군보다 많을 때, 해당 전투에서 적의 <font color=\"blue\">부활 무효화</font> (해당 효과는 아레나에서만 발동) <br/><br/><font color=\"blue\">요도 홍앵</font> : <font color=\"blue\">천륜 - 요란의 검</font>을 <font color=\"blue\">'홍앵 베기'</font>로 전환 후 즉시 사용, 선공으로 전투 진입 시 영웅 방어 <font color=\"red\">-30%</font> <br/>선제 공격 및 적 방어 <font color=\"red\">30%</font> 무시, 전투 전 부대 생명 <font color=\"red\">30%</font> 회복, 적 <font color=\"blue\">버프</font> <font color=\"red\">1</font>개 제거</font><br/> 아군보다 많은 적의 수 <font color=\"red\">1</font>명당 영웅 방어 감소 이외의 효과 수치 <font color=\"red\">1</font>배씩 증가, 최대 <font color=\"red\">3</font>배<br/> <font color=\"blue\">면역 및 해제 불가</font>, 지속 <font color=\"red\">2</font>행동<br/><br/>[패시브] <font color=\"blue\">홍앵 베기</font> : 전투 후 피해량의 <font color=\"red\">30%</font> 수치만큼 생명 회복,<br/> 단일 개체 <font color=\"red\">1.4</font>배 피해 및 자신의 모든 스킬 쿨 <font color=\"red\">-1</font>",
         "SubSkills": null,
-        "Animation": "../img/Super/"
+        "Animation": "../img/"
       }
     ],
     "Propose": false,

@@ -429,10 +429,10 @@
             "Value": "4칸"
           }
         ],
-        "IconImageUrl": "../img/Super/루시.webp",
+        "IconImageUrl": "../img/",
         "Desc": "[패시브] <b>자신</b>과 <font color=\"purple\">성령</font>이 <font color=\"blue\">별</font>, <font color=\"blue\">달</font>을 보유한 적 공격 시 피해 <font color=\"red\">+15%</font><br/>[마법피해] 범위 내 적에게 <font color=\"red\">0.36</font>배 피해, 명중한 적에게 추가로 <font color=\"blue\">달</font> 부여<br/> (<font color=\"blue\">별의 옷</font> 보유 시 <font color=\"blue\">스킬</font> 사용 후 자신의 <font color=\"blue\">별의 옷</font> 상실, <br/>이후 해당 <font color=\"blue\">스킬</font> 및 <b>자신</b>의 모든 <font color=\"purple\">성령</font> <font color=\"blue\">스킬</font> 쿨 <font color=\"red\">-3</font>) <br>",
         "SubSkills": null,
-        "Animation": "../img/Super/"
+        "Animation": "../img/"
       }
     ],
     "Propose": false,

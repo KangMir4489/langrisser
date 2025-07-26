@@ -336,10 +336,10 @@ var data = [
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/Super/레이피어.webp",
+        "IconImageUrl": "../img/",
         "Desc": "[패시브] 피해를 주지 않고 행동 종료 시 '<font color=\"blue\">거합</font>'효과 획득 <br/><font color=\"blue\">거합</font> : <b>전투 진입 전</b> 주위 <font color =\"red\">1</font>바퀴 범위 내 적에게 <font color =\"red\">0.25</font>배 피해를 준다.<br/><font color=\"red\">1</font>회 효과 발동 후 <font color=\"blue\">거합</font> 효과 상실<br/>지속 <font color =\"red\">1</font>행동<br/>[물리피해]단일 개체에게 <font color =\"red\">1.8</font>배 피해.<br/>전투 진입 전 버프 <font color=\"red\">5</font>개 제거<br/> 전투 후 <font color=\"blue\">모든 장비 스킬 무효화</font> (최대 생명력 옵션 제외)<br/>지속 <font color =\"red\">2</font>행동<br/><b>해제불가</b><br/>대상이 NPC일 경우 모든 스탯 <font color =\"red\">-25%</font>로 대체 <br/>지속 <font color =\"red\">2</font>행동<br/><b>해제 불가</b><br/><b>적이 <font color=\"red\">사망</font>하지 않았을 경우 스킬 쿨타임 <font color=\"red\">-5</font> <br/>(해당 효과 쿨타임 <font color =\"red\">2</font>)",
         "SubSkills": null,
-        "Animation": "../img/Super/"
+        "Animation": "../img/"
       }
     ],
     "Propose": false,

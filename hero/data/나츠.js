@@ -342,10 +342,10 @@
             "Value": "단일"
           }
         ],
-        "IconImageUrl": "../img/Super/나츠.webp",
+        "IconImageUrl": "../img/",
         "Desc": "[패시브] <font color=\"green\">염룡왕의 영역</font>에 있을 시 받는 피해 -<font color=\"red\">20%</font>, 부대 피해 <font color=\"blue\">스킬 사거리</font> +<font color=\"red\">1</font><br/>단일 개체 <font color=\"red\">1.8</font>배 피해. <font color=\"blue\">감정의 화염</font> <font color=\"red\">4</font> 스택 이상 시, 해당 전투는 <font color=\"blue\">선제 공격</font>.<br/></br> <font color=\"blue\">최종 형태</font> 인 경우, 전투 후 목표 주위 2칸 지형에 <font color=\"green\">염룡왕의 영역</font> 효과 부여 (지속 <font color=\"red\">2</font>턴)<br/></br> <font color=\"green\">염룡왕의 영역</font> : 적이 해당 지형에서 턴 종료 시 시전자의 공격 <font color=\"red\">1</font>배 수치 <font color=\"blue\">고정 피해</font><br/> <b>나츠</b> 로부터 받는 피해 <font color=\"red\">15</font>%, 최대 <font color=\"red\">2</font>중첩, 지속 <font color=\"red\">2</font>턴, <font color=\"blue\">면역 및 해제 불가</font>",
         "SubSkills": null,
-        "Animation": "../img/Super/"
+        "Animation": "../img/"
       }
     ],
     "Propose": false,
